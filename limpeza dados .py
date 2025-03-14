@@ -4,11 +4,3 @@ for i in a:
     if i%2==0:
         b.append(i) 
 print(b)
-
-
-# cenas de coisas
-
-diogo = "mania que manda...mas não manda"
-nuno = " só ri e sorri"
-pedro = "o unico responsavel..pemsava eu até ouvir as historias de hj de manhã"
-raquel = "a pobre coitada que vos atura."
