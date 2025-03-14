@@ -6,4 +6,16 @@ for i in a:
 print(b)
 
 
-for i in range 
+
+for i in range(10):
+    if i%2==0:
+        print(i)
+
+# cenas de coisas
+
+diogo = "mania que manda...mas não manda"
+nuno = " só ri e sorri"
+pedro = "o unico responsavel..pemsava eu até ouvir as historias de hj de manhã"
+raquel = "a pobre coitada que vos atura."
+
+print(diogo)
